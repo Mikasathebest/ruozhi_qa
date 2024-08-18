@@ -39,10 +39,10 @@
 AI-AGENT训练营项目报告
 
 ## 参考资料
-[环境配置](https://blog.csdn.net/kunhe0512/article/details/140910139) 
-[NVIDIA NIM](https://build.nvidia.com/) 
-[弱智吧资料](https://tieba.baidu.com/f?kw=%E5%BC%B1%E6%99%BA&ie=utf-8)  
-[AI挑战弱智吧问题](https://news.sciencenet.cn/htmlnews/2024/4/521058.shtm)  
+[环境配置](https://blog.csdn.net/kunhe0512/article/details/140910139)    
+[NVIDIA NIM](https://build.nvidia.com/)    
+[弱智吧资料](https://tieba.baidu.com/f?kw=%E5%BC%B1%E6%99%BA&ie=utf-8)     
+[AI挑战弱智吧问题](https://news.sciencenet.cn/htmlnews/2024/4/521058.shtm)    
 
 
 
