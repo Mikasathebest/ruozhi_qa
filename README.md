@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82e51900-407c-4fc8-a298-2d42f0b760ac)# 0基础菜鸟也能学会的：基于弱智吧文案的对话机器人
+# 0基础菜鸟也能学会的：基于弱智吧文案的对话机器人
 ## 效果展示
 ### LLaMa 3.1原生回答
 ![LLaMa3.1 Raw Answer](images/raw_QA.png)
