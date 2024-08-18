@@ -6,7 +6,7 @@
 ![RAG-Bot Answer](images/RAG_QA.png)
 
 #### Example
-![Example2](images/case2.png)
+![Example2](images/example2.png)
 
 ## 项目简述
 本项目旨在利用NVIDIA NIM微服务架构构建一个基于检索增强生成（RAG）技术的问答机器人，能够根据百度弱智吧提取的问答进行智能回答。该系统不仅可以为用户提供实时的问答服务，还能根据用户的提问上下文，智能匹配最相关的回答。
