@@ -1,9 +1,13 @@
 # 0基础菜鸟也能学会的：基于弱智吧文案的对话机器人
 ## 效果展示
-### LLaMa 3.1原生回答
+#### LLaMa 3.1原生回答
 ![LLaMa3.1 Raw Answer](images/raw_QA.png)
-### RAG机器人回答
+#### RAG机器人回答
 ![RAG-Bot Answer](images/RAG_QA.png)
+
+#### Example
+![Example2](images/case2.png)
+
 ## 项目简述
 本项目旨在利用NVIDIA NIM微服务架构构建一个基于检索增强生成（RAG）技术的问答机器人，能够根据百度弱智吧提取的问答进行智能回答。该系统不仅可以为用户提供实时的问答服务，还能根据用户的提问上下文，智能匹配最相关的回答。
 
@@ -35,10 +39,10 @@
 AI-AGENT训练营项目报告
 
 ## 参考资料
-[弱智吧](https://tieba.baidu.com/f?kw=%E5%BC%B1%E6%99%BA&ie=utf-8)
-https://blog.csdn.net/kunhe0512/article/details/140910139
-https://build.nvidia.com/
-https://news.sciencenet.cn/htmlnews/2024/4/521058.shtm
+[环境配置](https://blog.csdn.net/kunhe0512/article/details/140910139) 
+[NVIDIA NIM](https://build.nvidia.com/) 
+[弱智吧资料](https://tieba.baidu.com/f?kw=%E5%BC%B1%E6%99%BA&ie=utf-8)  
+[AI挑战弱智吧问题](https://news.sciencenet.cn/htmlnews/2024/4/521058.shtm)  
 
 
 
