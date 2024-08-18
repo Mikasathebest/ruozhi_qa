@@ -1,4 +1,4 @@
-# 10分钟搭建基于弱智吧文案的对话机器人
+# 0基础菜鸟也能学会的：基于弱智吧文案的对话机器人
 
 ## NVIDIA 加速推理平台介绍 ：https://build.nvidia.com/
 需要登录Nvidia NIM 生成自己的API key，才可以使用各种models。
